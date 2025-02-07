@@ -1,4 +1,4 @@
-from game_helpers import greet_user, generate_number, give_feedback
+from functions113 import greet_user, generate_number, give_feedback
 
 def play_game():
     name = greet_user()
